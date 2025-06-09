@@ -217,6 +217,7 @@ const Footer = () => {
             © {new Date().getFullYear()} Disney and its related entities. All
             rights reserved.
           </p>
+         
           <div className="flex space-x-4 text-white text-xl">
             <a
               href="https://facebook.com/disneyplus"
